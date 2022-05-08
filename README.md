@@ -20,7 +20,7 @@
 
 ## 競賽網站
 -  mirror 網址：[按我連結]()
--  賽中記分板網址：[按我連結](https://nhdk-ten-point-round.github.io/2022spring)
+-  賽中記分板網址：[按我連結](https://nhdk-ten-point-round.github.io/2022-ten-point-round-spring/Ranking/Ranking.html)
 -  題本：[按我連結](./statement/index.md)
 ## 開放語言及編譯參數
 
